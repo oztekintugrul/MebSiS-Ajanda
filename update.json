@@ -1,5 +1,6 @@
 {
-    "version": "5.6",
-    "download_url": "https://github.com/oztekintugrul/2RuLeAjanda-Guncellemeler/releases/download/v5.6/2RuLeAjanda.exe",
-    "release_notes": "Uygulama otomatik güncelleme sistemine geçirildi."
+    "app": "MEBsis",
+    "version": "1.6",
+    "download_url": "https://github.com/oztekintugrul/2RuLeAjanda-Guncellemeler/raw/main/MEBSİS.exe",
+    "release_notes": "Yeni özellikler ve performans iyileştirmeleri eklendi."
 }
