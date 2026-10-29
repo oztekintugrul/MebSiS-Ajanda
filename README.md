@@ -1,1 +1,1 @@
-# 2RuLeAjanda-Guncellemeler
+# Mebsis Ajanda
