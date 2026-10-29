@@ -1,6 +1,6 @@
 {
-    "app": "MEBsis",
-    "version": "1.6",
-    "download_url": "https://github.com/oztekintugrul/2RuLeAjanda-Guncellemeler/raw/main/MEBSİS.exe",
-    "release_notes": "Yeni özellikler ve performans iyileştirmeleri eklendi."
+    "app": "MebSiS Ajanda",
+    "version": "1.5",
+    "download_url": "https://github.com/oztekintugrul/MebSiS-Ajanda/releases/latest/download/MebSiS.Ajanda.exe",
+    "release_notes": "MebSiS Ajanda v1.5 - Yeni tasarım, hızlandırma ve lisanslama merkezi."
 }
