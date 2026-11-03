@@ -1,7 +1,7 @@
 {
-  "version": "1.7",
+  "version": "1.6",
   "download_url": "https://github.com/oztekintugrul/MebSiS-Ajanda/releases/latest/download/MebSiS.Ajanda.exe",
-  "release_notes": "v1.7: Öğrenci İşleri Taşımalı/BEP işaretleme sistemi yenilendi, gelişmiş ve çok işlevli Yazdırma Ön Ekranı (başlık/düzen düzenleme) eklendi, PDF Türkçe karakter desteği (ArialTR) mükemmelleştirildi.",
+  "release_notes": "v1.6: Öğrenci İşleri Taşımalı/BEP işaretleme sistemi yenilendi, gelişmiş ve çok işlevli Yazdırma Ön Ekranı (başlık/düzen düzenleme) eklendi, PDF Türkçe karakter desteği (ArialTR) mükemmelleştirildi.",
   "app": "mebsis",
   "firebase_url": "https://mebsis-ajanda-default-rtdb.firebaseio.com"
 }
